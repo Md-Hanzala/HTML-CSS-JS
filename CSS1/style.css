@@ -1,0 +1,29 @@
+    h1{
+    color: firebrick;
+
+}   
+p{
+    text-decoration: underline red;
+    color: darkblue;
+}
+button{
+    color: rgb(128, 0, 94);
+    background-color: darkblue;
+}
+body{
+    background-color: #beb232;
+}
+.mymy{
+    color: navy;
+}
+box{
+    background-color: rgb(22, 1, 255);
+    color: g;
+}
+h3{
+    color: yellow;
+}
+a{
+    color: green;
+    text-decoration:dotted;
+}

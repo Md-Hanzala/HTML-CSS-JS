@@ -1,0 +1,25 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-transform: uppercase;
+    text-decoration: line-through;
+    text-align: center;
+    font-size: 40px;}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+}
+p{
+    line-height: 15px8;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: center;
+}
+p2{
+    text-transform: capitalize;
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
