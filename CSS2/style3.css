@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(159, 132, 132) ;
+}
+h1{
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    height: 50px;
+    background-color: forestgreen;
+    color: black;
+}
+p{
+    color: rgb(199, 209, 218);
+}
+*{
+    color: rgb(93, 132, 170);
+}
+button{
+    color: black;
+    border: 10px  solid rgb(30, 225, 150);
+}
+.box1{
+    color: #000;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(14, 205, 52);
+    border-width: 20px;
+    border-style:solid ;
+    border-color: saddlebrown;
+    border-radius: 50%;
+    text-align: center;
+    padding-left: 25%;
+    padding-top: 30%;
+    padding-bottom: 25%;
+    padding-right: 25%;
+
+}
+.box {
+    width: 100px;
+    height: 300px;
+    border: 2px solid black;
+
+    display: flex;          /* Places children in a row */
+    justify-content: space-around;
+    align-items: center;
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    border-radius: 50%;
+}
