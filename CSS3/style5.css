@@ -1,4 +1,29 @@
-*{
-    margin: 0px;
-    padding: 0px;
+
+#h1{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    position: fixed;
+    bottom: 10px;
+    right: 50px;
+    z-index: 2;
+    background-image: url(mars.jpg);
+    background-size: cover;
+    color: aliceblue;
+}
+    body{
+    }
+        
+#p1{
+    position: relativ;
+    z-index: 3;
+}
+#b1{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    position: sticky;
+    z-index: 0;
 }
